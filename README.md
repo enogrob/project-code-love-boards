@@ -48,6 +48,16 @@ Learn everything you need to about the subject of this `Project`.
 [ ] Rails STI with PostgreSQL hstore
 [ ] Rails and React IV: Independent components communication
 [ ] Rails and React III: Parent-child communication
-[ ] Rails and React II: A real use case
-[x] Rails and React I: A happy medium 
+Rails and React II: A real use case
+[x] Installing React
+[ ] Writing React components
+[ ] The main view
+[ ] The PeopleSection component
+[ ] The PeopleSearch component
+[ ] The PersonCard component
+[ ] What's next?
+Rails and React I: A happy medium
+[X] The happy medium
+[x] React, the V in MV*
+[x] Conclusion
 ```
