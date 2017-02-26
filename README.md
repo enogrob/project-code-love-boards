@@ -50,8 +50,8 @@ Learn everything you need to about the subject of this `Project`.
 [ ] Rails and React III: Parent-child communication
 Rails and React II: A real use case
 [x] Installing React
-[ ] Writing React components
-[ ] The main view
+[x] Writing React components
+[x] The main view
 [ ] The PeopleSection component
 [ ] The PeopleSearch component
 [ ] The PersonCard component
